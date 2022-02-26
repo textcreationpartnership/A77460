@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief relation of the proceedings before his Highness Councel concerning the petitioners of the Isle of Ely, against George Glapthorne Esquire; to take away the false report that is made touching the same, and that the truth may plainly appear.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77460</idno>
+            <idno type="STC">Wing B4631</idno>
+            <idno type="STC">Thomason E814_12</idno>
+            <idno type="STC">ESTC R207354</idno>
+            <idno type="EEBO-CITATION">99866411</idno>
+            <idno type="PROQUEST">99866411</idno>
+            <idno type="VID">167968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E814[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief relation of the proceedings before his Highness Councel concerning the petitioners of the Isle of Ely, against George Glapthorne Esquire; to take away the false report that is made touching the same, and that the truth may plainly appear.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "4 Nouember 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Glapthorne, George --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:167968:1" rendition="simple:additions"/>
+            <head>A brief Relation of the Proceedings before his Highneſs Councel concerning the Petitioners of the Iſle of <hi>Ely,</hi> againſt <hi>George Glapthorne</hi> Eſquire; to take away the falſe report that is made touching the ſame, and that the truth may plainly appear.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>George Glapthorne</hi> of <hi>Wit<g ref="char:EOLhyphen"/>tleſey</hi> in the Iſle of <hi>Ely</hi> Eſquire, and chiefe Bailiff of the Liber<g ref="char:EOLhyphen"/>ty thereof, and Juſtice of Peace of the ſame; Hath ſeemed to cloud himſelf under this Sha<g ref="char:EOLhyphen"/>dow, and ſaith: <hi>That his High<g ref="char:EOLhyphen"/>neſſe Counſell, had not heard him;</hi> And ſaid further, <hi>Surely, they would not judg him before they heard him.</hi> Therefore to unvaile him, and take off that ſlander which he would ſeem to lay upon them, that dealt ſo Honourably and Honeſtly with him and the County: You may underſtand there was a Peti<g ref="char:EOLhyphen"/>tion with about foure hundred hands to it, out of the Iſle of <hi>Ely</hi> (a joyfull thing to ſee ſo many wit<g ref="char:EOLhyphen"/>neſſes againſt iniquity) Their complaint was a<g ref="char:EOLhyphen"/>gainſt the ſaid Maſter <hi>Glapthorne,</hi> that he was a com<g ref="char:EOLhyphen"/>mon Swearer, a common Curſer, a frequenter of Ale-houſes, and an upholder of thoſe of evill fame, that he was famed to be a companion of lewd Wo<g ref="char:EOLhyphen"/>men; therefore they thought him not fit to be a Law-maker or Parliament man for them: Upon this complaint his Highneſſe Councel gave Sum<g ref="char:EOLhyphen"/>mons for Witneſſes to appear to prove this charge; which was ſubſtantially proved by ſeverall Wit<g ref="char:EOLhyphen"/>neſſes, and they have left their teſtimonies behind them upon Oath. There was examined before the
+<pb n="2" facs="tcp:167968:2" rendition="simple:additions"/>Councel and in the preſence of Mr. <hi>Glapthorne</hi> and divers other perſons and Mr. <hi>Glapthorne</hi> excepted (though without cauſe) but againſt one Witneſſe, who did modeſtly forbear: There were examined Capt. <hi>William Lane, William Head,</hi> Mr. <hi>William Mar<g ref="char:EOLhyphen"/>ſhall, George Bate</hi> of <hi>Wittleſey,</hi> and <hi>Roger Branham</hi> of <hi>Wisbich,;</hi> and there was <hi>William Manesty,</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mus Cony</hi> came too late at that time to be examined before the Councel; but their Affidavits are here with ſome other of the Witneſſes, which will like the Gyants foot ſet forth the whole ſtature: The Councel gave him liberty to ſay what he could for himſelf; and gave him alſo upon his deſire a fur<g ref="char:EOLhyphen"/>ther day; but when he was called, he did not ap<g ref="char:EOLhyphen"/>pear; he was called again the next morning, and in the afternoon, and the next day after, but, never appeared: Now let any honeſt man judge whether this man hath cauſe to complain, that he was not heard; but, he hath done like himſelf: When you have read theſe Affidavits annexed, then judge whether this man be fit to be a Parliament man or a Juſtice of Peace, or a chief Bailiff: for why ſhould honeſt menly under the power of him thats a ſlave to his own luſts, an enemy to ſobriety and honeſt living; Being the Laws are made and Juſtices or<g ref="char:EOLhyphen"/>dained to keep men within the rules of ſobriety and honeſty: This is of publique concernment; For <hi>if wickedneſſe get into high places miſery will be to the Commonwealth.</hi> Therefore it is deſired ſome uſe may be made hereof, as may be to the publique good.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:167968:2"/>
+               <head>
+                  <hi>George Bate</hi> of <hi>Wittleſey</hi> in the Iſle of <hi>Ely</hi> in the County of <hi>Cambridge</hi> Yeoman.</head>
+               <opener>Saith,</opener>
+               <p>THat he hath known <hi>George Glapthorn</hi> of <hi>Wit<g ref="char:EOLhyphen"/>tleſey</hi> in the ſaid Iſle Eſquire, for above twen<g ref="char:EOLhyphen"/>ty years, laſt paſt; for all which time, he hath known him to be a common Swearer and Curſer, and a common frequenter of Alehouſes, his uſuall Oathes and Curſes being, <hi>By Gods wounds, by Gods blood, by Jeſus Chriſt, by the eternall God, God con<g ref="char:EOLhyphen"/>found me body and ſoule, God damme me, the Devill fetch me, God refuſe me:</hi> In or about <hi>Auguſt</hi> 1653. he the ſaid <hi>George Bate</hi> heard the ſaid Oathes and Curſes: And ſince the ſaid time (that is to ſay) the Sunday before the Election for Knights for the ſaid Iſle, he the ſaid <hi>George Bate,</hi> heard him ſweare, <hi>By God, and by Gods wounds;</hi> and the Tueſday af<g ref="char:EOLhyphen"/>ter the Election he heard him ſwear and curſe bit<g ref="char:EOLhyphen"/>terly, (viz.) <hi>By Gods wounds, by Gods blood, God re<g ref="char:EOLhyphen"/>fuſe him,</hi> and the like. And further, he hath heard, the ſaid Maſter <hi>Glapthorne,</hi> famed to be familiar with Women of evill fame <hi>(viz.) Dorothy Fox</hi> and <hi>Anne Martin,</hi> and <hi>Elizabeth Mee.</hi>
+               </p>
+               <p>And further ſaith, he hath heard the ſaid Maſter <hi>Glapthorne</hi> doth uſually play at Cards on the Lords Day.</p>
+               <closer>
+                  <signed>George Bate <hi>his mark.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Sworn the</hi>
+                     <date>27. <hi>of</hi> October 1654.</date> 
+                     <hi>before me.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:167968:3"/>
+               <head>The Depoſition of Captain <hi>William Lane.</hi>
+               </head>
+               <p>CAptain <hi>William Lane</hi> of <hi>Wit<g ref="char:EOLhyphen"/>tleſey,</hi> ſaith, That he hath known <hi>George Glapthorn</hi> of <hi>Wit<g ref="char:EOLhyphen"/>tleſey</hi> aforeſaid Eſquire for about 30 years, to be a common ſwearer, his uſuall oathes being, <hi>By Gods wounds, by gods blood, god refuſe my ſoule,</hi> and ſuch like. And in <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 1653. he that ſaid <hi>George Glapthorne</hi> did ſwear the ſaid oaths: And ſince the Election, which was the 12 of <hi>July</hi> 1654. he hath heard him ſwear <hi>by god:</hi> he hath often by diverſe people heard him famed for the vſe of women, namely <hi>Anne Maſon</hi> and others; and that Maſter <hi>Robert Compton</hi> told him this examinate, that there was a wench kept for the ſaid Mr. <hi>Glapthorn</hi> at <hi>Wis<g ref="char:EOLhyphen"/>bich</hi> by one he did beſtow a Bai<g ref="char:EOLhyphen"/>liffs place on.</p>
+               <closer>
+                  <signed>W. Lane.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:167968:3"/>
+               <head>The Information of <hi>Roger Branham</hi> of <hi>Wisbich</hi> in the Iſle of <hi>Ely</hi> and County of <hi>Cambridge</hi> this <hi>26.</hi> day of <hi>October, 1654.</hi>
+               </head>
+               <p>SAith, He hath known <hi>George Glapthorne</hi> of <hi>Wit<g ref="char:EOLhyphen"/>tleſey,</hi> in the ſaid Iſle Eſ1uire, about the ſpace of of 20 years, from the date hereof; and that he hath known him all that time to be a common ſwearer and curſer, his ordinary oaths being theſe, <hi>viz. Gods blood, and by the eternal god,</hi> and ſuch like; his curſes being, <hi>god refuſe me, and god condemn me,</hi> and curſes of that nature. And the ſaid <hi>Roger Branham</hi> further ſaith, That all the aforementioned time, that he hath known <hi>George Glapthorne,</hi> he hath known him to be a frequenter of women of evil fame, as in par<g ref="char:EOLhyphen"/>ticular, the wife of <hi>John Maſon</hi> of <hi>Wisbich.</hi> And the ſaid <hi>Roger Branham</hi> ſaith, he going to <hi>Wittleſey</hi> upon a time with a company of Horſe, going into the houſe of one <hi>William Martin</hi> of <hi>Wittleſey,</hi> heard one <hi>John Norman</hi> pleaſant with the wife of <hi>William Mar<g ref="char:EOLhyphen"/>tin</hi> profering her five ſhillings for a good turn; but ſhe the ſaid <hi>Anne Martin</hi> called him Puppily-foole, and ſaid, the old Juſtice <hi>Glapthorne</hi> had of<g ref="char:EOLhyphen"/>fered her eighteen ſhillings for an occupying, and promiſed to make it up twenty ſhillings when he had more money.</p>
+               <closer>
+                  <signed>Roger Branham his mark.</signed>
+                  <dateline>
+                     <hi>Sworn the</hi>
+                     <date>27 <hi>of</hi> October 1654.</date> 
+                     <hi>before me. Bent.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:167968:4"/>
+               <head>The Depoſition of <hi>William Head.</hi>
+               </head>
+               <p>
+                  <hi>WIlliam Head</hi> of <hi>Wittleſey</hi> aforeſaid, ſaith, That he hath heard <hi>George Glapthorne</hi> of <hi>Wittleſey</hi> aforeſaid Eſquire, Swear and Curſe, <hi>By Gods wounds, by Gods blood, by the eternall God,</hi> and the like; and that he hath often obſerved him to be in Alehouſes both before and ſince the time of the ſaid Election, and that he hath heard him much ſpoken of for Women.</p>
+            </div>
+            <div type="part">
+               <head>William Marſhall <hi>of</hi> Wittleſey <hi>in the Iſle of</hi> Ely <hi>in the County of</hi> Cambridge, <hi>Gentleman.</hi>
+               </head>
+               <p>SAith, That he hath known <hi>George Glapthorne</hi> Eſ<g ref="char:EOLhyphen"/>quire, for about one year and a half laſt, all which time, he hath taken great notice of the ſaid Maſter <hi>Glapthorne</hi> his uſuall common Swearing and Curſing, <hi>(viz.)</hi> about a week before the time for the Election of Knights for the ſaid Iſle, which was on the twelfth of <hi>July</hi> 1654. <hi>By God, and by Gods blood,</hi> and ſuch like Oaths, and the Sunday at night after the ſaid Election, he heard him curſe and ſwear bitterly, <hi>(viz.) God confound, the Devill fetch me, by Gods blood,</hi> and ſuch like Oaths very grievous to be heard. And he hath heard the ſaid Maſter <hi>Glapthorne</hi> reported to be a common frequenter of Women of evill fame, <hi>viz. Elizabeth Searle,</hi> whom this Deponent hath heard ſay, that the ſaid Maſter <hi>Glapthorne</hi> had her Maiden-head. And he further ſaith, he hath heard the ſaid <hi>Glapthorne</hi> doth play at Cards on the Lords Dayes.</p>
+               <closer>
+                  <signed>William Marſhall.</signed>
+                  <dateline>
+                     <hi>Sworn the</hi>
+                     <date>27. <hi>of</hi> October 1654.</date> Bent.</dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:167968:4"/>
+               <head>
+                  <hi>William Maneſty</hi> of <hi>Wittleſey</hi> in the Iſle of <hi>Ely</hi> Gen<g ref="char:EOLhyphen"/>tleman upon Oath, ſaith as followeth.</head>
+               <p>THat he hath known <hi>George Glapthorne</hi> of the ſame Town and Iſle Eſquire, for the ſpace of twenty years laſt paſt; And that he hath known him to be a common ſwearer, his ordinary Oathes being, <hi>God damme me, Gods blood, by Jeſus Chriſt, God renounce me, by the eternall God,</hi> with many other Oaths frequently flowing from him: This hath been his ordinary expreſſions in my hearing, at ſe<g ref="char:EOLhyphen"/>verall times in <hi>London,</hi> and in ſeverall Alehouſes in <hi>Wittleſey;</hi> as at <hi>Dorothy Harrods, Henry Atkins, Wil<g ref="char:EOLhyphen"/>liam Quickloue,</hi> and other houſes in the ſame town, and ſometimes hath ſworn forty of the former and the like Oaths in one hour, when he hath been ga<g ref="char:EOLhyphen"/>ming and at play; and likewiſe ſtrange impreca<g ref="char:EOLhyphen"/>tions in his Curſings, uſing theſe words, <hi>God con<g ref="char:EOLhyphen"/>found me body and ſoule,</hi> with many other ſuch of the ſame nature. And this I have known to be his conſtant practice from the beginning of my ac<g ref="char:EOLhyphen"/>quaintance untill within theſe twelve moneths laſt paſt, ſince which time I have not been much in his company; but when I have been in his Company, I have heard him ſwear the former, or the like oaths. The ſaid Maſter <hi>Maneſty</hi> further ſaith, that hehath known the ſaid Maſter <hi>Glapthorne,</hi> to be a frequenter of Women of evill fame, by their light carriage and lewd converſation, as the wife of <hi>John Fox,</hi> and the wife of <hi>Symon Mee,</hi> and others in <hi>Wit<g ref="char:EOLhyphen"/>tleſey.</hi> And likewiſe the ſaid <hi>William Maneſty</hi> going home about twelve of the clock in the night to his own houſe, being in his way, went to the houſe of one <hi>William Martin,</hi> being a common Alehouſe, but at that time unlicenſed, being about one year and a
+<pb n="8" facs="tcp:167968:5" rendition="simple:additions"/>half ſince the ſaid <hi>Wiliam Maneſty</hi> did find the ſaid Mr. <hi>Glap<g ref="char:EOLhyphen"/>thorne</hi> and privately heard him uncivilly familiar with the wife of the ſaid <hi>William Martin,</hi> tempting the chaſtity of the wife of the ſaid <hi>William martin,</hi> with large promiſes of re<g ref="char:EOLhyphen"/>wards, viz. <hi>that he would buy her a Roll of Tobacco, Give her Husband to Brew and ſell Ale, and that he would make her Hus<g ref="char:EOLhyphen"/>band as rich a man as</hi> Henry <hi>Atkins, conditionally, that ſhe would be conſtant and true unto him, in her affections, and to love him with greater love then that which was due unto her Husband;</hi> in<g ref="char:EOLhyphen"/>ticing of her alſo at that unſeaſonable time of the night to go home with him for a Licenſe; ſhe modeſtly denying, fearing his incivility to her, as ſhe told me the next morn<g ref="char:EOLhyphen"/>ing, being taxed about it; but promiſed to ſend her Hus<g ref="char:EOLhyphen"/>band to him the next day. And Mr <hi>Maneſty</hi> further ſaith, that he hath heard <hi>Elizabeth Zachary</hi> ſay, that the aforeſaid <hi>George Glapthorne</hi> had her Maiden-head.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sworn the</hi>
+                     <date>26 <hi>of Auguſt</hi> 1654.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item> Iohn Page.</item>
+                        <item>
+                           <hi>William Maneſty.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Thomas Coney</hi> of <hi>Wittleſey</hi> in the Iſle of <hi>Ely</hi> upon Oath, ſaith, as followeth.</head>
+               <p>THat he hath known <hi>George Glapthorne</hi> of the ſame town and Iſle Eſquire, almoſt theſe two years, and that he hath heard him ſwear and curſe bitterly, both at his own houſe and at the houſe of Licutenant Colonel <hi>
+                     <g ref="char:V">Ʋ</g>nderwood</hi> of the town aforeſaid, his Oathes were, <hi>Gods blood, and by Jeſus Chriſt,</hi> and ſuch like execrations, his curſes were, <hi>The Devill fetch him, the Devil confound him,</hi> &amp; ſuch like; &amp; that he hath ſet up common Ale-houſes in <hi>Wittleſey</hi> aforeſaid, which were formerly put down at the Seſſions; That is to ſay, <hi>George Ground</hi> and <hi>Ed Plummer.</hi> And alſo further ſaith, he co<g ref="char:cmbAbbrStroke">̄</g>monly heard him reported to be a man familiar with Women of light and looſe converſations, keeping compa<g ref="char:EOLhyphen"/>ny with the-wife of <hi>John Fox,</hi> and the wife of <hi>Simon Mee,</hi> and ſuch like in <hi>Wittleſey</hi> aforeſaid. And he further ſaith, that it is commonly reported, that the ſaid <hi>George Glap<g ref="char:EOLhyphen"/>thorne</hi> had the Maiden-head of <hi>Elizabeth Zachary</hi> of <hi>Wittle<g ref="char:EOLhyphen"/>ſey</hi> aforeſaid.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sworn the</hi>
+                     <date>26. <hi>of Auguſt</hi> 1654.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item> John Page.</item>
+                        <item>
+                           <hi>Thomas Coney.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>Finis.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
